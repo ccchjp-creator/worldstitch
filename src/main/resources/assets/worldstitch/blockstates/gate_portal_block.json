@@ -1,0 +1,100 @@
+{
+  "variants": {
+    "axis=x,color=white": {
+      "model": "worldstitch:block/gate_portal_block_x_white"
+    },
+    "axis=x,color=orange": {
+      "model": "worldstitch:block/gate_portal_block_x_orange"
+    },
+    "axis=x,color=magenta": {
+      "model": "worldstitch:block/gate_portal_block_x_magenta"
+    },
+    "axis=x,color=light_blue": {
+      "model": "worldstitch:block/gate_portal_block_x_light_blue"
+    },
+    "axis=x,color=yellow": {
+      "model": "worldstitch:block/gate_portal_block_x_yellow"
+    },
+    "axis=x,color=lime": {
+      "model": "worldstitch:block/gate_portal_block_x_lime"
+    },
+    "axis=x,color=pink": {
+      "model": "worldstitch:block/gate_portal_block_x_pink"
+    },
+    "axis=x,color=gray": {
+      "model": "worldstitch:block/gate_portal_block_x_gray"
+    },
+    "axis=x,color=light_gray": {
+      "model": "worldstitch:block/gate_portal_block_x_light_gray"
+    },
+    "axis=x,color=cyan": {
+      "model": "worldstitch:block/gate_portal_block_x_cyan"
+    },
+    "axis=x,color=purple": {
+      "model": "worldstitch:block/gate_portal_block_x_purple"
+    },
+    "axis=x,color=blue": {
+      "model": "worldstitch:block/gate_portal_block_x_blue"
+    },
+    "axis=x,color=brown": {
+      "model": "worldstitch:block/gate_portal_block_x_brown"
+    },
+    "axis=x,color=green": {
+      "model": "worldstitch:block/gate_portal_block_x_green"
+    },
+    "axis=x,color=red": {
+      "model": "worldstitch:block/gate_portal_block_x_red"
+    },
+    "axis=x,color=black": {
+      "model": "worldstitch:block/gate_portal_block_x_black"
+    },
+    "axis=z,color=white": {
+      "model": "worldstitch:block/gate_portal_block_z_white"
+    },
+    "axis=z,color=orange": {
+      "model": "worldstitch:block/gate_portal_block_z_orange"
+    },
+    "axis=z,color=magenta": {
+      "model": "worldstitch:block/gate_portal_block_z_magenta"
+    },
+    "axis=z,color=light_blue": {
+      "model": "worldstitch:block/gate_portal_block_z_light_blue"
+    },
+    "axis=z,color=yellow": {
+      "model": "worldstitch:block/gate_portal_block_z_yellow"
+    },
+    "axis=z,color=lime": {
+      "model": "worldstitch:block/gate_portal_block_z_lime"
+    },
+    "axis=z,color=pink": {
+      "model": "worldstitch:block/gate_portal_block_z_pink"
+    },
+    "axis=z,color=gray": {
+      "model": "worldstitch:block/gate_portal_block_z_gray"
+    },
+    "axis=z,color=light_gray": {
+      "model": "worldstitch:block/gate_portal_block_z_light_gray"
+    },
+    "axis=z,color=cyan": {
+      "model": "worldstitch:block/gate_portal_block_z_cyan"
+    },
+    "axis=z,color=purple": {
+      "model": "worldstitch:block/gate_portal_block_z_purple"
+    },
+    "axis=z,color=blue": {
+      "model": "worldstitch:block/gate_portal_block_z_blue"
+    },
+    "axis=z,color=brown": {
+      "model": "worldstitch:block/gate_portal_block_z_brown"
+    },
+    "axis=z,color=green": {
+      "model": "worldstitch:block/gate_portal_block_z_green"
+    },
+    "axis=z,color=red": {
+      "model": "worldstitch:block/gate_portal_block_z_red"
+    },
+    "axis=z,color=black": {
+      "model": "worldstitch:block/gate_portal_block_z_black"
+    }
+  }
+}

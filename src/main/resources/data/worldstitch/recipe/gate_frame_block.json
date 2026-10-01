@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DDD",
+    "DED",
+    "DDD"
+  ],
+  "key": {
+    "D": "minecraft:chiseled_deepslate",
+    "E": "minecraft:ender_pearl"
+  },
+  "result": {
+    "id": "worldstitch:gate_frame_block",
+    "count": 8
+  }
+}

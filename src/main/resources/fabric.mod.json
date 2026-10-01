@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "worldstitch",
+	"version": "${version}",
+	"name": "Worldstitch",
+	"description": "オフラインソロプレイで、別々のセーブデータ(ワールド)同士をゲートでつなぐMOD。",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/worldstitch/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.worldstitch.WorldstitchMod"
+		],
+		"client": [
+			"com.example.worldstitch.WorldstitchModClient"
+		],
+		"modmenu": [
+			"com.example.worldstitch.client.WorldstitchModMenuIntegration"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "worldstitch:block/gate_frame_block"
+  }
+}

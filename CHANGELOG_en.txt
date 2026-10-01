@@ -1,0 +1,34 @@
+====================================================================
+ Worldstitch Changelog (English)  -  (Japanese: CHANGELOG.txt)
+====================================================================
+See README_en.txt for how to use the mod.
+
+Beta 0.5.2: Fixed the ContextIntProviders import to the correct package (providers.number.ints).
+Beta 0.5.1: ConstantValue was removed in 26.3; BonusChestLoot now uses ContextIntProviders for the item count.
+Beta 0.5.0: Updated for Minecraft 26.3 (Fabric API 0.161.0+26.3, Gradle 9.6.0,
+            ModMenu 21.0.0). Target version changed from 26.2 to 26.3.
+Beta 0.4.9: Reorganized the README: moved the version history into
+            CHANGELOG_en.txt and made the how-to-use text more concise.
+Beta 0.4.8: Fixed ModMenu settings screen labels overlapping buttons/inputs.
+Beta 0.4.7: Added mouse wheel scrolling to the ModMenu settings screen.
+Beta 0.4.6: Shrank ModMenu screen widgets, pinned Save/Cancel to the bottom,
+            added up/down scroll buttons for overflowing content.
+Beta 0.4.5: Fixed invisible text (missing alpha channel) on the ModMenu
+            screen and Gate Linker screen; switched to a label-left,
+            control-right layout.
+Beta 0.4.4: Added optional ModMenu integration with a settings screen.
+Beta 0.4.3: Fixed breaking a shared frame column between two adjacent gates
+            wrongly tearing down both and failing to notify one remote side.
+Beta 0.4.2: Fixed break-protection removal only affecting one block.
+            Portal surfaces are now always unbreakable, like Nether portals.
+Beta 0.4.1: Break protection now propagates to the linked partner gate too.
+Beta 0.4.0: Compacted the Gate Linker screen; prevented duplicate links and
+            unlinking a protected gate (commands too). Added README notes.
+Beta 0.3.5: Renamed the project from WorldPortal to Worldstitch.
+            Break-protected frames now behave exactly like bedrock.
+Beta 0.3.4: Portals can now be crossed by mobs/items, not just players
+            (same-save links only).
+Beta 0.3.3: Bonus chests now guarantee 16 Gate Frames + 1 Gate Linker.
+Beta 0.3.2: Added frame break protection. In-game text now follows
+            Minecraft's language setting. Added the English README.
+Beta 0.3.1: Fixed unlink-then-relink sometimes producing a one-way link.

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:writable_book",
+    "minecraft:ender_pearl"
+  ],
+  "result": {
+    "id": "worldstitch:gate_linker",
+    "count": 1
+  }
+}

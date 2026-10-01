@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "protected=false": { "model": "worldstitch:block/gate_frame_block" },
+    "protected=true": { "model": "worldstitch:block/gate_frame_block" }
+  }
+}
