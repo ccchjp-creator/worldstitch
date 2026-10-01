@@ -20,9 +20,10 @@ you've already built.
 --------------------------------------------------------------------
 Gate Frame (gate_frame_block) - 8 per craft
 Surround an Ender Pearl (E) with Chiseled Deepslate (D) in a 3x3:
-        D D D
-        D E D
-        D D D
+
+ D D D 
+ D E D
+ D D D
 
 Gate Linker (gate_linker)
     Writable Book + Ender Pearl (shapeless)
