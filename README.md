@@ -19,6 +19,7 @@ you've already built.
 1. Obtaining
 --------------------------------------------------------------------
 Gate Frame (gate_frame_block) - 8 per craft
+
 Surround an Ender Pearl (E) with Chiseled Deepslate (D) in a 3x3:
 
  D D D 
